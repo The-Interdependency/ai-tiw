@@ -98,3 +98,17 @@ The `files/` directory contains AI-generated artifacts (code, diagrams, document
 - Main branch: `main`
 - Author: Erin Patrick Spencer
 - License: Apache 2.0
+
+## Agent module-build doctrine
+
+Before adding a new module, route, service, adapter, schema, worker, engine,
+UI panel, migration, or experiment, read:
+
+`./.agents/skills/meta-module-build/SKILL.md`
+
+New module work should start with a `MODULE_BUILD` block. Unknown fields must
+be marked `hmmm`, not guessed.
+
+This is an archive/content repo: `MODULE_BUILD` is required only for new
+executable or tooling modules, not for archived model-response files or other
+historical content.
