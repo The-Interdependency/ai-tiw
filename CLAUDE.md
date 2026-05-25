@@ -96,7 +96,9 @@ The `files/` directory contains AI-generated artifacts (code, diagrams, document
 ## Git Workflow
 
 - Main branch: `main`
-- Author: Erin Patrick Spencer
+- Feature branches: `feat/<description>`, `fix/<description>`, `docs/<description>` (content additions are usually `docs/`)
+- Commit style: Conventional Commits (`docs(claude):`, `docs(readme):`, etc.)
+- Author: Erin Patrick Spencer (wayseer@interdependentway.org)
 - License: Apache 2.0
 
 ## Agent module-build doctrine
