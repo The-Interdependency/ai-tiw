@@ -70,7 +70,14 @@ The `files/` directory contains AI-generated artifacts (code, diagrams, document
 
 - **Do not edit response content.** Files represent unaltered AI output. Factual corrections or editorial commentary must be added in a clearly marked separate section.
 - **File naming:** `<descriptive-slug>.md` within each model's folder.
-- **Credit line on all content:** *"AI generated; context, prompt Erin Spencer"*
+- **Accreditation line:** Each model folder's `README.md` and most individual
+  response files open with an `Accreditation:` line naming the model, e.g.
+  `Accreditation: Claude generated; context, prompt Erin Spencer.` (the model
+  name is substituted per folder: GPT, Gemini, Mistral, DeepSeek, Meta AI, …).
+  The repo-level `README.md` uses the generic tagline
+  *"AI generated; context, prompt Erin Spencer"*. Apply the per-model
+  `Accreditation:` line to new content; a few legacy response files (e.g.
+  `grok/grok-tiw.md`) predate it and lack one.
 - **License:** Intended **CC BY 4.0** (Creative Commons Attribution 4.0
   International). `LICENSE` currently holds an interim notice — the full
   verbatim legal text must be inserted before public release/merge. Attribution

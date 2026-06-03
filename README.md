@@ -78,4 +78,7 @@ responses/   # additional text responses and conversation transcripts
 
 ## License
 
-Apache 2.0
+CC BY 4.0 (Creative Commons Attribution 4.0 International) — intended; the
+`LICENSE` file currently holds an interim notice, with the full verbatim legal
+text to be inserted before public release. Attribution to Erin Patrick Spencer /
+The Interdependency is required.
