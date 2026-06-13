@@ -32,7 +32,7 @@ Google/         Capitalized developer/model tree (Google/Gemini/INITIAL_EXPOSURE
 .agents/skills/ Repo-local agent skill library (msdmd, test-build, meta-module-build)
 
 README.md       Index of models, files, and context
-LICENSE         MIT license
+LICENSE         CC-BY-4.0 license
 ```
 
 > **Note:** A capitalized `Google/Gemini/` tree coexists with the lowercase
@@ -78,7 +78,8 @@ The `files/` directory contains AI-generated artifacts (code, diagrams, document
   *"AI generated; context, prompt Erin Spencer"*. Apply the per-model
   `Accreditation:` line to new content; a few legacy response files (e.g.
   `grok/grok-tiw.md`) predate it and lack one.
-- **License:** **MIT** — the full verbatim MIT License text is in `LICENSE`.
+- **License:** **CC-BY-4.0** (Creative Commons Attribution 4.0 International) —
+  the full verbatim license text is in `LICENSE`.
   Copyright (c) 2026 Erin Patrick Spencer.
 
 ---
@@ -120,7 +121,7 @@ The `files/` directory contains AI-generated artifacts (code, diagrams, document
   (`docs:`, `docs(readme):`) and `feat:`/`scaffold:` commits for structural
   additions (e.g. `feat: add initial exposure statement for Google/Gemini`).
 - Author: Erin Patrick Spencer (wayseer@interdependentway.org)
-- License: MIT (see `LICENSE`)
+- License: CC-BY-4.0 (see `LICENSE`)
 
 ---
 

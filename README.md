@@ -78,5 +78,6 @@ responses/   # additional text responses and conversation transcripts
 
 ## License
 
-MIT — the full verbatim license text is in `LICENSE`. Copyright (c) 2026
+CC-BY-4.0 (Creative Commons Attribution 4.0 International) — the full verbatim
+license text is in `LICENSE`. Copyright (c) 2026
 Erin Patrick Spencer / The Interdependency.
