@@ -105,8 +105,8 @@ The `files/` directory contains AI-generated artifacts (code, diagrams, document
 | Repo | Role |
 |------|------|
 | The-Interdependency/a0 | Agentic model wrapper and inference engine |
-| The-Interdependency/ZFAE | Zeta Function Alpha Echo — inference engine of a0 |
-| The-Interdependency/pcna | Prime Circular Neural Architecture |
+| The-Interdependency/zfae | Zeta Function Alpha Echo — inference engine of a0 |
+| The-Interdependency/ptcna | Prime Tensor Circled Neural Architecture — consolidated prime-tensor stack (supersedes the former pcna/pcta/pcsa repos) |
 | The-Interdependency/aimmh | Multi-model AI hub (Emergent) |
 
 (See `README.md` for the canonical, linked list.)
