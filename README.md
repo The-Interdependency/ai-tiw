@@ -70,8 +70,8 @@ responses/   # additional text responses and conversation transcripts
 | Repo | Description |
 |------|-------------|
 | [a0](https://github.com/The-Interdependency/a0) | Agentic model wrapper and inference engine |
-| [ZFAE](https://github.com/The-Interdependency/ZFAE) | Zeta Function Alpha Echo — inference engine of a0 |
-| [pcna](https://github.com/The-Interdependency/pcna) | Prime Circular Neural Architecture |
+| [zfae](https://github.com/The-Interdependency/zfae) | Zeta Function Alpha Echo — inference engine of a0 |
+| [ptcna](https://github.com/The-Interdependency/ptcna) | Prime Tensor Circled Neural Architecture — consolidated prime-tensor stack (supersedes the former pcna/pcta/pcsa repos) |
 | [aimmh](https://github.com/The-Interdependency/aimmh) | Multi-model AI hub (Emergent) |
 
 ---
