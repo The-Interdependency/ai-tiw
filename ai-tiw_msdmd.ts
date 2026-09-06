@@ -4,5 +4,5 @@ export default defineMsdmdCollection({
   "declarations": [],
   "edges": [],
   "gaps": [],
-  "repo": "ai-tiw"
+  "repo": "The-Interdependency/ai-tiw"
 });
